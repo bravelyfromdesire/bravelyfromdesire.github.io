@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Haoran&#39;s blog.</title>
+  <subtitle>Think, record and share.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.questforfuture.com/"/>
+  <updated>2017-06-04T18:48:27.831Z</updated>
+  <id>http://blog.questforfuture.com/</id>
+  
+  <author>
+    <name>Haoran Liang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://blog.questforfuture.com/2017/06/05/test/"/>
+    <id>http://blog.questforfuture.com/2017/06/05/test/</id>
+    <published>2017-06-04T18:47:30.000Z</published>
+    <updated>2017-06-04T18:48:27.831Z</updated>
+    
+    <content type="html"><![CDATA[<p>Just test.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Just test.&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
