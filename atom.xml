@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.questforfuture.com/"/>
-  <updated>2017-06-04T18:48:27.831Z</updated>
+  <updated>2017-06-05T15:03:06.634Z</updated>
   <id>http://blog.questforfuture.com/</id>
   
   <author>
@@ -16,19 +16,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://blog.questforfuture.com/2017/06/05/test/"/>
-    <id>http://blog.questforfuture.com/2017/06/05/test/</id>
-    <published>2017-06-04T18:47:30.000Z</published>
-    <updated>2017-06-04T18:48:27.831Z</updated>
+    <title>诫子书</title>
+    <link href="http://blog.questforfuture.com/2017/06/05/%E8%AF%AB%E5%AD%90%E4%B9%A6/"/>
+    <id>http://blog.questforfuture.com/2017/06/05/诫子书/</id>
+    <published>2017-06-05T14:55:44.000Z</published>
+    <updated>2017-06-05T15:03:06.634Z</updated>
     
-    <content type="html"><![CDATA[<p>Just test.</p>
-]]></content>
+    <content type="html"><![CDATA[<p>《诫子书》</p>
+<pre><code>夫君子之行，静以修身，俭以养德，非澹泊无以明志，非宁静无以致远。夫学须静也，才须学也，非学无以广才，非志无以成学。慆慢则不能励精，险躁则不能冶性。年与时驰，意与岁去，遂成枯落，多不接世。悲守穷庐，将复何及。
+</code></pre>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Just test.&lt;/p&gt;
-
+      &lt;p&gt;《诫子书》&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;夫君子之行，静以修身，俭以养德，非澹泊无以明志，非宁静无以致远。夫学须静也，才须学也，非学无以广才，非志无以成学。慆慢则不能励精，险躁则不能冶性。年与时驰，意与岁去，遂成枯落，多不接世。悲守穷庐，将复何及。
+&lt;/code&gt;&lt;/pre
     
     </summary>
     
